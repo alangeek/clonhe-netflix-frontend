@@ -1,2 +1,2 @@
-# clonhe-netflix-frontend
+# clone-netflix-frontend
 tela inicial da netflix
